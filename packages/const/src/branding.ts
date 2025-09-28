@@ -5,7 +5,7 @@
 export const LOBE_CHAT_CLOUD = 'ASK AFRICA Cloud';
 
 export const BRANDING_NAME = 'ASK AFRICA Chat';
-export const BRANDING_LOGO_URL = '';
+export const BRANDING_LOGO_URL = 'https://chat.askafrica.co.za/icons/icon-ask-africa-192x192.png';
 
 export const ORG_NAME = 'ASK AFRICA';
 
