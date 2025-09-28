@@ -5,9 +5,9 @@
 export const LOBE_CHAT_CLOUD = 'ASK AFRICA Cloud';
 
 export const BRANDING_NAME = 'ASK AFRICA Chat';
-export const BRANDING_LOGO_URL = 'https://res.cloudinary.com/dadgglcaq/image/upload/t_Favicon/v1747746280/Ask_Africa_logo_website_2_d7sams.png';
+export const BRANDING_LOGO_URL = '';
 
-export const ORG_NAME = 'ASK AFRICA Chat';
+export const ORG_NAME = 'ASK AFRICA';
 
 export const BRANDING_URL = {
   help: undefined,
